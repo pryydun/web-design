@@ -19,7 +19,12 @@ h2 {
   margin-top: 0;
     }
 
-
+p{
+  text-align: justify;
+  padding-top: 15%;
+  padding-left:10px;
+  padding-right: 10px;
+}
 
 
 
