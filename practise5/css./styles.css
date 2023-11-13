@@ -7,14 +7,12 @@
   width: 100%;
 }
  .text {
-  background-color: rgb(21, 232, 25);
-  text-align: center;
-  border: 2px solid black;
-  margin-bottom: 5px;
-  margin-right: 10px;
-  width: 250px;
-  height: 250px;
-
+  position: relative;
+    padding: 10px;
+    padding-top: 30px;
+    background-color: rgb(95, 243, 65);
+    border: 3px solid black;
+    margin: 10px;
     
 }
 h2{
@@ -27,9 +25,7 @@ h2{
 .caption{background-color: pink;}
 p{
   text-align: justify;
-  padding-top: 15%;
-  padding-left:10px;
-  padding-right: 10px;
+   
 }
 
 
