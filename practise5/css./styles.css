@@ -1,8 +1,12 @@
 
+  
  
  .zagolovok{
     text-align: center;
+ 
  }
+ 
+ 
  .row {
   width: 100%;
 }
@@ -13,7 +17,7 @@
    padding-top: 30px;
     border: 3px solid black;
    margin: 10px;
-    
+ 
 }
 h2{ position: absolute;
 top: 0;
@@ -151,17 +155,18 @@ p{
 /* Small devices */
 @media (max-width: 768px)
   {
-    .col-sm-1,
-    .col-sm-2,
-    .col-sm-3,
-    .col-sm-4,
-    .col-sm-5,
-    .col-sm-6,
-    .col-sm-7,
-    .col-sm-8,
-    .col-sm-9,
-    .col-sm-11,
-    .col-sm-12 {
+    .col-md-1,
+  .col-md-2,
+  .col-md-3,
+  .col-md-4,
+  .col-md-5,
+  .col-md-6,
+  .col-md-7,
+  .col-md-8,
+  .col-md-9,
+  .col-md-10,
+  .col-md-11,
+  .col-md-12 {
       float: left;
       border: 1px solid green;
     }
