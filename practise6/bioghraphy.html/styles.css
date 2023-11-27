@@ -1,0 +1,71 @@
+.button{
+    text-decoration: none;
+    background-color: blue;
+    border: 1px solid green;
+    color: white;
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-bottom:1px;
+    font-size: 140%;
+}
+.button:hover {
+            text-decoration: none;
+            background-color: magenta;
+            border: 1px solid pink;
+            color: black;
+            display: block;
+            width: 200px;
+            text-align: center;
+            margin-bottom:1px;
+            font-size: 140%;
+        }
+        .button:active {
+            text-decoration: none;
+            background-color: yellow; 
+            border: 1px solid orange;
+            color: red;
+            display: block;
+            width: 200px;
+            text-align: center;
+            margin-bottom:1px;
+            font-size: 140%;
+        }
+        .paragraf1{
+            background-color: yellow; 
+    color: orange;
+font-size: 120%;}
+     
+    .paragraf2{
+            background-color: rgb(168, 223, 168); 
+    color: blue; font-size: 120%;}
+    .paragraf3{
+            background-color: pink; 
+    color: red;font-size: 120%;}
+    .paragraf4{
+            background-color: rgb(240, 84, 193); 
+    color:black;font-size: 120%;}
+    .paragraf5{
+            background-color: hotpink; 
+    color: purple;font-size: 120%;}
+    #autobiography{
+        text-align: center;
+        font-size: 22px; 
+    }
+    #heading{
+        text-align: center;
+
+    }
+    .nazad{ font-style: italic; }
+    .dozmistu{
+        font-weight: 600;
+    }
+.uverh{
+    text-transform: uppercase;
+}
+/*desktop */
+@media (min-width: 992px) {}
+/*tablet*/
+@media (min-width: 768px) and (max-width:992px){}
+/*mobile */
+@media (max-width: 768px) {}

@@ -1,0 +1,38 @@
+.riadok1{background-color: gray ;}
+        .riadok2{background-color: white;
+          color: blue;
+
+        }
+          
+          table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+  }
+  th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: blue;}
+            
+            .friends4 {text-align: center;
+            font-size: 22px;}
+
+            .nazad{ font-style: italic; }
+        h2{text-align: center;}
+        th{text-align: center;
+        background-color: green;
+      color:white;
+    font-weight: 600;}
+           .nomer{
+            text-align: right;
+           }
+           
+       /*desktop */
+@media (min-width: 992px) {}
+/*tablet*/
+@media (min-width: 768px) and (max-width:992px){}
+/*mobile */
+@media (max-width: 768px) {}
