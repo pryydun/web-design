@@ -91,7 +91,7 @@ h2{margin-left: 20px;
 }
 
 /*Midium devices*/
-@media (max-width: 992px) {
+@media (max-width: 992px) and (min-width:0) {
   .col-md-1,
   .col-md-2,
   .col-md-3,
