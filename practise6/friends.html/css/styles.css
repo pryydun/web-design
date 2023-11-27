@@ -30,9 +30,25 @@
             text-align: right;
            }
            
-       /*desktop */
-@media (min-width: 992px) {}
-/*tablet*/
-@media (min-width: 768px) and (max-width:992px){}
-/*mobile */
-@media (max-width: 768px) {}
+           @media (min-width: 993px) {
+            th {
+                font-size: 130%;
+            }
+            td {
+                font-size: 120%;
+            }
+        
+        }
+        @media (min-width: 769px) and (max-width: 992px) {
+            th {
+                font-size: 120%;
+            }
+            td {
+                font-size: 110%;
+            }
+        }
+        @media (max-width: 768px) {
+            th {
+                font-size: 110%;
+            }
+        }
